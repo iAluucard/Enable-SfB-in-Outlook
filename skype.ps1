@@ -1,11 +1,3 @@
-####################################################
-##                                                ##
-##          SEG Automotive Skype for Bussines     ##
-##                 addon in outlook               ##
-##                                                ##
-####################################################
-#if you happen to have some suggestions please contact me 
-#for enabling eForms, please test this 
 
 
 #adding the .net Forms to the script 
