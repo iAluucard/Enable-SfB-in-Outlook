@@ -1,0 +1,119 @@
+Checked_USER;Checked_NAME;Checked_SURNAME;FAIL_USER;FAIL_NAME;FAIL_SURRNAME
+GNI2ST;Nirav;Gandhi;GNI2ST-T1;Nikolay;Georgiev
+HAD2ST;Adem;Harinadha Reddy;HAD2ST-T1;Desislava;Hadzhiyska
+svc_ad;;svc_ad;svc_ad_ccscache;ccs;cache
+svc_ad;;svc_ad;svc_adfs_salesforce;svc_adfs_salesforce;
+svc_ad;;svc_ad;svc_adm_veeam;svc;adm_veeam
+svc_ad;;svc_ad;svc_admin_treto;admin;treto
+TT71SI;Tobias;Ratge;TT71SI-T2;Tobias;Trzebiatowski
+BEL3HI;Lars;Blenkle-Brand;BEL3HI_ADMIN;Lars;Blenkle
+HIM1HI;Markus;Hilski;HIM1HIG;420/2R06;R_RM_Hig
+RSR1SI;Pruefstand;RSG3;RSR1SIK;BTC_M1;R_RM_Sik
+TOT2ST;Othman Abdulhadi;Taha;TOT2ST-T1;Toncho;Topalov
+ANK2ST;Andreas;Kitsukis;ANK2ST-T1;Kiril;Angelov
+SMA2ST;Marina;Shvetsova;SMA2ST-T1;Martin;Stoyanov
+WLI2;Liang;WANG;WLI2CC;Liyan;WANG
+WLI2;Liang;WANG;WLI2CS;Linyu;WANG
+DMI2ST;Michael;Duemeland;DMI2ST-T1;Mihail;Dimovski
+MPE2ST;Peter;Matuscheck;MPE2ST-T1;Peter;Matov
+SDI2ST;Dirk;Schuster;SDI2ST-T0;Dilyan;Svetlanov Stoev
+SDI2ST;Dirk;Schuster;SDI2ST-T1;Dilyan;Svetlanov Stoev
+PAL2IT;Altair;Prando;PAL2ITV;Aline;Praxedes
+BMA2ST;Max;Baumann;BMA2ST-T1;Marina;Bliznakova
+FJU2TR;JUAN ANTON;FERNANDEZ;FJU2TRE;JUAN JESUS;FERNANDEZ
+DBJ2ST;Bjoern;Delles;DBJ2ST-T2;;Delles
+VAS2ST;Vaidyanathan;Sivapragasam;VAS2ST-T1;Stefan;Valkov
+KKR2ST;Krishan;Kumar Joshi;KKR2ST-T1;Kristiyan;Krastev
+PJO2ST;Johann;Pachole;PJO2ST-T1;Jordan;Petrov
+NMO2ST;Mohankumar Shivashankar;Nagalapura;NMO2ST-T1;Momchil;Nikolov
+PSO2ST;Sorin;Panu;PSO2ST-T1;Sonya;Pisarska
+MAA2ST;Marc;Ackermann;MAA2ST-T1;Alexander;Marvakov
+RAM2ST;Rajaram;Mysore Gopinath;RAM2ST-T1;Mariyan;Raynov
+SRE2IT;REALINO LUIZ DA;SILVA;SRE2ITV;recebimentofiscal;segautomotive
+CFR2TR;FRANCISCO JAVIER;CABIECES;CFR2TRE;FRANCISCO;CEBAS
+KTO2ST;Tobias;Kohler;KTO2ST-T0;Toma;Konstantinov
+KTO2ST;Tobias;Kohler;KTO2ST-T1;Toma;Konstantinov
+SKR2ST;Kristina;Sander;SKR2ST-T1;Krasimir;Stankov
+FPA2IT;PATRICK SAMPAIO;FINARDI;FPA2ITV;Paulo Leandro;Ferreira
+AUS2TR;Usuario;Activecockpit;AUS2TRE;Usuario;ATMO2
+GST2ST;St1;GLT;GST2ST-T1;Stilyan;Gyonev
+SNI2ST;Niels;Schreuders;SNI2ST-T1;Nikolay;Stefanov
+SAL2IT;ALEXANDRE RODRIGO DE;SOUZA;SAL2ITV;Alexandre;Souza
+ROC2IT;RONALDO DA SILVA;COSTA;ROC2ITV;Rogerio Ramos;Carriel
+LMA2IT;MARCOS ALVES DE;LIMA;LMA2ITV;Matheus Gustavo;Lopes dos Reis 
+SED2IT;EDSON CARLOS DA;SILVA JUNIOR;SED2ITV;EDIO CARDOSO DE;SA
+KMO2ST;Motorenfeld;Kamera;KMO2ST-T1;Momchil;Kalafunski
+VAN2ST;Ananda;Venkataramu;VAN2ST-T1;Angel;Venkov
+PMI2ST;Michael;Paule;PMI2ST-T1;Miroslav;Petkov
+BPA2IT;PAULA TAMIRES DOS REIS;BARCARO;BPA2ITV;Paulo;Bueno
+EDS2IT;EDUARDO PINHO DOS;SANTOS;EDS2ITV;Edvaldo;Silva
+MVI2IT;Vitor;Malandrin Ferreira;MVI2IT_ADMIN;Vitor;Malandrin Ferreora
+SCA2TR;CARMEN;SALAMANCA;SCA2TRE;CARLOS LUIS;SAN EMETERIO
+SCA2TR;CARMEN;SALAMANCA;SCA2TRE-T2;CARLOS LUIS;SAN EMETERIO
+DMI2TR;MIGUEL ANGEL;DIAZ;DMI2TRE;MIGUEL A.;DEL RIO
+SFC2TR;FCO.JAVIER;SILVAN;SFC2TRE;Colindres;Sala Formacion
+SAS2TR;SANTIAGO;SISNIEGA;SAS2TRE;ASI-USO Enrique Vidal;Seccion Sindical
+SSE2TR;SERGIO;SECUNZA;SSE2TRE;Seleccion;SEG
+CAN2VC;Anna;Ciaccio;CAN2VCD;Ana;Campos
+BRO2IT;RODRIGO;BOAVA;BRO2ITV;ROBSON ALEXANDRE;BAPTISTA
+svc_global_matrix;Application Matrix42;Service_User;svc_global_matrix_ad;Matrix AD DirectAccess;Service_User
+LDA2ST;David;Lorenz;LDA2ST-TEST-T1;LDA2ST-TEST-T1;
+KBO2ST;Boris;Kunov;KBO2ST-T1;Bogomil;Kovachev
+SVE2ST;Verena;Sand;SVE2ST-T0;Ventsislav;Sokolov
+SVE2ST;Verena;Sand;SVE2ST-T1;Ventsislav;Sokolov
+GDA2IT;DAVI SILVEIRA ARRUDA;GRACIANO;GDA2ITV;Daniel;Goncalves
+SYA2ST;Yannick;Selg;SYA2ST-T1;Yasen;Stefanov
+MIV2ST;Ivan Jose;Melian Hernandez;MIV2ST-T1;Ivaylo ;Minchev
+SHM2ST;Shazia Nousheen;Mohammed;SHM2ST-T1;Milen;Shumanov
+svc_global_veeam;Veeam_All_Backup;Service_User;svc_global_veeam_dc;Veeam_DomainController;Service_User
+BKA2ST;Kaushik;Ballav;BKA2ST-T1;Kamen;Baramov
+RRA2IT;Rauni;Rocha Ribeiro;RRA2IT-T2;Rauni da Rocha;Ribeiro
+HR;;;HR29FE;ATOSS;HR
+HR;;;HRA2NH;Ramachandrappa;Hugar
+HR;;;HRA2ST-T1;Radoslav;Hristov
+HR;;;HRA2TR;RAQUEL;HERRANZ
+HR;;;HRC2ST;Martin;Weil
+HR;;;HRE2IT;MARCOS;LUIZ MUNIZ DOMINGUES
+HR;;;HRE2MC;Henrietta;Recso
+HR;;;HRI2ST-T1;Ivan;Hristoskov
+HR;;;HRI3SI;Simon;Hirschbach
+HR;;;HRJ2MC;Laszlo;Szabo
+HR;;;HRO2MC;Rozalia;Horvath
+HR;;;HRP2MC;Zsolt;Krakkai
+HR;;;HRQ2CS;Xiufei;LI
+HR;;;HRR3SI;Regina;Franke-Hoerth
+HR;;;HRSi1;Max;Mueller
+HR;;;HRSi2;Michael;Schmitt
+HR;;;HRSi3;Maike;Wagner
+HR;;;HRT3HI;Thorsten;Hartmann
+HR;;;HRU1HI;Raik-Manfred;Hubert
+HR;;;HRV1SI;Marko;Hrvacanin
+RRA2ST;Raghavendra;Rao;RRA2ST-T1;Radostin;Raychev
+svc_hi_hpdp;DataProtector;Service_User;svc_hi_hpdpmxs;HPDPMXS;Service_User
+ADMIN;admin;;Admin-SG;;
+MCA2VC;Carlos;Mendes Machado;MCA2VC_ADMIN;Carlos;Machado
+AVI2IT;VINICIUS;ALVES DE LIMA;AVI2ITV;MAURICIO SANCHES;ALBERTI
+VMI2ST;Mihaela;Vitanova;VMI2ST-T1;Milena;Vasileva
+SJU2IT;JULIANA CRISTINA DOS;SANTOS;SJU2ITV;Julio Cesar;Santos
+MDI2IT;DIEGO HENRIQUE DE;MOURA;MDI2ITV;Diego Henrique;Molinero
+KNI2ST;Nishant;Kaushik;KNI2ST-T1;Nikolay;Kiryakov
+DMA2ST;Matteo;Dorotino;DMA2ST-T1;Martin Kristyan;Dinev
+SAN2ST;Anupama;Schanmukha;SAN2ST-T1;Angel;Stoyanov
+SVI2ST;Viola;Schaefer;SVI2ST-T0;Viktor;Stoyanov Stoev
+SVI2ST;Viola;Schaefer;SVI2ST-T1;Viktor;Stoyanov Stoev
+MEM2IT;EMERSON DOS SANTOS;MIRANDA;MEM2ITV;Emerson Diego;Modesto
+SHS2ST;Sherif;Soliman;SHS2ST-T1;Stilian;Shivarov
+MVA2ST;Vaijanath;Mokashi;MVA2ST-T1;Valeri;Marinov Angelov
+KMA2ST;Manoj;Kumar;KMA2ST-T0;Martin;Konev
+KMA2ST;Manoj;Kumar;KMA2ST-T1;Martin;Konev
+PRA2ST;Rajini;Pariki;PRA2ST-T1;Raja;Pandian
+STH2ST;Thakshak;Shetty;STH2ST-T1;Hristo;Stoynev Grigorov
+BNI2ST;Nilesh;Bharate;BNI2ST-T1;Nikolay;Bogomilov Bogdanov
+NNI2ST;Nikhil Kashyap;Narasipura Umesh;NNI2ST-T1;Nikolay;Novakov
+SPR2ST;Pranita Prashant;Shinde;SPR2ST-T1;Rosen;Spartyanov
+MVE2ST;Veit;Mueller;MVE2ST-T1;Ventsislav;Milev
+KKI2ST;Kiranbedi;Kasani;KKI2ST-T0;Kiril;Koltchakov
+KKI2ST;Kiranbedi;Kasani;KKI2ST-T1;Kiril;Koltchakov
+AKA2ST;Kaan;Akbulut;AKA2ST-T0;Kaloyan;Abrashev
+AKA2ST;Kaan;Akbulut;AKA2ST-T1;Kaloyan;Abrashev
+MMA2ST;Maik;Mueller;MMA2ST-T1;Martin;Mirchev
