@@ -1,4 +1,4 @@
-$something = "C:\Users\mkm6si\Desktop\Powershell\SGHIFS01_to_be_Archive_folders.xlsx" 
+$something = "Name of the Excel" 
 $collection = Import-Excel -Path $something | Select-Object Link
 
 
